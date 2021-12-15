@@ -1,0 +1,39 @@
+/* whats-new*/
+.whats-new{
+    margin: 0px auto;
+    font-size: small;
+}
+.whats-new .date {
+    width: 150px;
+}
+.whats-new .update {
+    width: 450px;
+}
+.whats-new tr {
+    border-bottom: 1px dashed lightgray;
+}
+.whats-new td {
+    padding: 5px 15px;
+}
+
+/*
+     FILE ARCHIVED ON 19:47:48 Apr 06, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:13:10 Dec 14, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 68.925
+  exclusion.robots: 0.216
+  exclusion.robots.policy: 0.208
+  RedisCDXSource: 0.579
+  esindex: 0.006
+  LoadShardBlock: 46.752 (3)
+  PetaboxLoader3.datanode: 119.723 (5)
+  CDXLines.iter: 19.194 (3)
+  load_resource: 196.976 (2)
+  PetaboxLoader3.resolve: 97.869 (2)
+*/

@@ -1,0 +1,145 @@
+html {}
+body {
+    background-color: lightgray;
+    font-family:'ヒラギノ角ゴ Pro W3','Hiragino Kaku Pro','メイリオ',Meiryo,'ＭＳ Ｐゴシック','MS PGothic',sans-serif;
+}
+p{
+    margin:0px;
+}
+
+/* container */
+.container {
+    margin: 0px auto;
+    width: 940px;
+    min-height: 100%;
+    background-color: white;
+    box-shadow: 0px 0px 10px 1px gray;
+    padding-top: 5px;
+    padding-bottom: 30px;
+}
+
+.content {
+    width: 806px;
+    margin: 0px auto;
+}
+
+/* logo-img */
+.logo-img {
+    margin-left: 20px;
+    -webkit-filter: drop-shadow(1px 1px 1px lightgray);
+}
+
+/* menu */
+.menu {
+    margin: 0px auto 30px;
+    box-shadow: 0px 0px 5px 1px whitesmoke;
+}
+.menu td {
+    text-align: center;
+    border: solid 1px lightgray;
+    border-collapse: collapse;
+}
+.menu img {
+    width: 160px;
+    height: 52px;
+    vertical-align: bottom;
+}
+.img_hover {
+    display: block;
+}
+.menu-current {
+    margin-bottom: -20px;
+}
+
+/* main */
+.main {
+    width: 764px;
+    margin: 20px auto 30px;
+    border: solid 1px lightgray;
+    box-shadow: 0px 0px 5px 1px whitesmoke;
+    text-align: left;
+    padding: 20px;
+    padding-bottom: 40px;
+}
+.main h1 {
+    margin-top: 5px;
+    padding: 0px 10px 0px 10px;
+    border-bottom: 1px dashed gray;
+    text-shadow: 0px 0px 3px gray;
+    letter-spacing: 0.07em;
+    text-align: center;
+}
+.main h2 {
+    margin-top: 30px;
+    padding: 0px 10px 0px 12px;
+    border-bottom: 1px dotted gray;
+    border-left: 2px solid gray;
+    text-shadow: 0px 0px 2px lightgray;
+    letter-spacing: 0.1em;
+    font-weight: 500;
+}
+.main h3 {
+    padding: 0px 10px 0px 14px;
+    border-bottom: 1px solid gray;
+    text-shadow: 0px 0px 2px lightgray;
+    letter-spacing: 0.04em;
+    font-weight: 500;
+}
+.main h4 {
+    padding: 0px 10px 0px 14px;
+    border-bottom: 1px dotted gray;
+    text-shadow: 0px 0px 2px lightgray;
+    letter-spacing: 0.03em;
+    font-weight: 500;
+}
+.main p {
+    padding: 0px 15px;
+    letter-spacing: 0.02em;
+}
+.main p a {
+    color: rgb(141, 88, 255);
+    text-decoration: none;
+    margin: 0px 2px;
+}
+
+/* Topic */
+.topic {
+    margin: 0px auto 20px;
+    width: 700px;
+    height: 100px;
+    border-radius: 3px;
+    border: 2px solid white;
+    box-shadow: 0px 0px 2px 1px lightgray;
+    text-align: center;
+}
+
+/* footer */
+.footer {
+    border-top: 1px dotted gray;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: small;
+}
+
+/*
+     FILE ARCHIVED ON 19:21:21 Apr 06, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:08:07 Dec 14, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  esindex: 0.016
+  PetaboxLoader3.datanode: 2181.611 (5)
+  CDXLines.iter: 24.82 (3)
+  exclusion.robots.policy: 0.235
+  PetaboxLoader3.resolve: 357.998 (2)
+  captures_list: 149.9
+  cdx.remote: 0.141
+  exclusion.robots: 0.25
+  LoadShardBlock: 112.576 (3)
+  load_resource: 2486.416 (2)
+*/
